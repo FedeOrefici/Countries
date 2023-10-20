@@ -1,4 +1,3 @@
-# Individual proyect for the bootcamp Henry.
 Used technologies: React - Express - Sequelize - PostgreSQL
 
 ![image](https://github.com/FedeOrefici/Countries/assets/86120837/e91d2a77-32a3-4a3d-864a-3c808b3dba45)
